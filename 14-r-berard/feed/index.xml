@@ -6,11 +6,11 @@
 	
 	>
 <channel>
-	<title>Comments for Top 10</title>
-	<atom:link href="http://localhost/top10/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://malorchrd.github.io/wp-static</link>
+	<title>Comments on: 14 R BERARD</title>
+	<atom:link href="http://localhost/top10/14-r-berard/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://malorchrd.github.io/wp-static/14-r-berard/</link>
 	<description>Compare, Review, Buy</description>
-	<lastBuildDate>Mon, 18 Feb 2019 06:49:05 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Feb 2019 06:49:34 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.0.3</generator>

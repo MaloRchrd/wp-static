@@ -10,28 +10,162 @@
 <channel>
 	<title>Top 10</title>
 	<atom:link href="http://localhost/top10/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>http://https://malorchrd.github.io/wp-static</link>
 	<description>Compare, Review, Buy</description>
-	<lastBuildDate>Mon, 18 Feb 2019 03:30:59 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Feb 2019 06:02:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.0.3</generator>
 	<item>
-		<title>Hello world!</title>
-		<link>/hello-world/</link>
-		<comments>/hello-world/#comments</comments>
-		<pubDate>Fri, 15 Feb 2019 05:33:46 +0000</pubDate>
+		<title>2 PL DES TERREAUX</title>
+		<link>http://https://malorchrd.github.io/wp-static/2-pl-des-terreaux/</link>
+		<comments>http://https://malorchrd.github.io/wp-static/2-pl-des-terreaux/#respond</comments>
+		<pubDate>Mon, 18 Feb 2019 06:02:04 +0000</pubDate>
 		<dc:creator><![CDATA[malo_richard]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">/?p=1</guid>
-		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-				<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+		<guid isPermaLink="false">http://https://malorchrd.github.io/wp-static/2-pl-des-terreaux/</guid>
+		<description><![CDATA[2 PL DES TERREAUX]]></description>
+				<content:encoded><![CDATA[<p>2 PL DES TERREAUX</p>
 ]]></content:encoded>
-			<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
+			<wfw:commentRss>http://https://malorchrd.github.io/wp-static/2-pl-des-terreaux/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>16 R DE LA REPUBLIQUE</title>
+		<link>http://https://malorchrd.github.io/wp-static/16-r-de-la-republique/</link>
+		<comments>http://https://malorchrd.github.io/wp-static/16-r-de-la-republique/#respond</comments>
+		<pubDate>Mon, 18 Feb 2019 06:02:04 +0000</pubDate>
+		<dc:creator><![CDATA[malo_richard]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://https://malorchrd.github.io/wp-static/16-r-de-la-republique/</guid>
+		<description><![CDATA[16 R DE LA REPUBLIQUE]]></description>
+				<content:encoded><![CDATA[<p>16 R DE LA REPUBLIQUE</p>
+]]></content:encoded>
+			<wfw:commentRss>http://https://malorchrd.github.io/wp-static/16-r-de-la-republique/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>4 rue Joliot Curie</title>
+		<link>http://https://malorchrd.github.io/wp-static/4-rue-joliot-curie/</link>
+		<comments>http://https://malorchrd.github.io/wp-static/4-rue-joliot-curie/#respond</comments>
+		<pubDate>Mon, 18 Feb 2019 06:02:02 +0000</pubDate>
+		<dc:creator><![CDATA[malo_richard]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://https://malorchrd.github.io/wp-static/4-rue-joliot-curie/</guid>
+		<description><![CDATA[4 rue Joliot Curie]]></description>
+				<content:encoded><![CDATA[<p> 4 rue Joliot Curie </p>
+]]></content:encoded>
+			<wfw:commentRss>http://https://malorchrd.github.io/wp-static/4-rue-joliot-curie/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>6 R JOSEPH BERTOLA</title>
+		<link>http://https://malorchrd.github.io/wp-static/6-r-joseph-bertola/</link>
+		<comments>http://https://malorchrd.github.io/wp-static/6-r-joseph-bertola/#respond</comments>
+		<pubDate>Mon, 18 Feb 2019 06:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[malo_richard]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://https://malorchrd.github.io/wp-static/6-r-joseph-bertola/</guid>
+		<description><![CDATA[6 R JOSEPH BERTOLA]]></description>
+				<content:encoded><![CDATA[<p>6 R JOSEPH BERTOLA</p>
+]]></content:encoded>
+			<wfw:commentRss>http://https://malorchrd.github.io/wp-static/6-r-joseph-bertola/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>13 PL DE L HOTEL DE VILLE</title>
+		<link>http://https://malorchrd.github.io/wp-static/13-pl-de-l-hotel-de-ville/</link>
+		<comments>http://https://malorchrd.github.io/wp-static/13-pl-de-l-hotel-de-ville/#respond</comments>
+		<pubDate>Mon, 18 Feb 2019 06:01:58 +0000</pubDate>
+		<dc:creator><![CDATA[malo_richard]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://https://malorchrd.github.io/wp-static/13-pl-de-l-hotel-de-ville/</guid>
+		<description><![CDATA[13 PL DE L HOTEL DE VILLE]]></description>
+				<content:encoded><![CDATA[<p>13 PL DE L HOTEL DE VILLE</p>
+]]></content:encoded>
+			<wfw:commentRss>http://https://malorchrd.github.io/wp-static/13-pl-de-l-hotel-de-ville/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>2 bis RTE DE LYON</title>
+		<link>http://https://malorchrd.github.io/wp-static/2-bis-rte-de-lyon/</link>
+		<comments>http://https://malorchrd.github.io/wp-static/2-bis-rte-de-lyon/#respond</comments>
+		<pubDate>Mon, 18 Feb 2019 06:01:58 +0000</pubDate>
+		<dc:creator><![CDATA[malo_richard]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://https://malorchrd.github.io/wp-static/2-bis-rte-de-lyon/</guid>
+		<description><![CDATA[2 bis RTE DE LYON]]></description>
+				<content:encoded><![CDATA[<p>2 bis RTE DE LYON</p>
+]]></content:encoded>
+			<wfw:commentRss>http://https://malorchrd.github.io/wp-static/2-bis-rte-de-lyon/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>238 rue Edgar BERLIOZ</title>
+		<link>http://https://malorchrd.github.io/wp-static/238-rue-edgar-berlioz/</link>
+		<comments>http://https://malorchrd.github.io/wp-static/238-rue-edgar-berlioz/#respond</comments>
+		<pubDate>Mon, 18 Feb 2019 06:01:57 +0000</pubDate>
+		<dc:creator><![CDATA[malo_richard]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://https://malorchrd.github.io/wp-static/238-rue-edgar-berlioz/</guid>
+		<description><![CDATA[238 rue Edgar BERLIOZ]]></description>
+				<content:encoded><![CDATA[<p>238 rue Edgar BERLIOZ</p>
+]]></content:encoded>
+			<wfw:commentRss>http://https://malorchrd.github.io/wp-static/238-rue-edgar-berlioz/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>60  PL PUTHOD</title>
+		<link>http://https://malorchrd.github.io/wp-static/60-pl-puthod/</link>
+		<comments>http://https://malorchrd.github.io/wp-static/60-pl-puthod/#respond</comments>
+		<pubDate>Mon, 18 Feb 2019 06:01:56 +0000</pubDate>
+		<dc:creator><![CDATA[malo_richard]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://https://malorchrd.github.io/wp-static/60-pl-puthod/</guid>
+		<description><![CDATA[60 PL PUTHOD]]></description>
+				<content:encoded><![CDATA[<p>60  PL PUTHOD</p>
+]]></content:encoded>
+			<wfw:commentRss>http://https://malorchrd.github.io/wp-static/60-pl-puthod/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>60 R MARSALE</title>
+		<link>http://https://malorchrd.github.io/wp-static/60-r-marsale/</link>
+		<comments>http://https://malorchrd.github.io/wp-static/60-r-marsale/#respond</comments>
+		<pubDate>Mon, 18 Feb 2019 06:01:55 +0000</pubDate>
+		<dc:creator><![CDATA[malo_richard]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://https://malorchrd.github.io/wp-static/60-r-marsale/</guid>
+		<description><![CDATA[60 R MARSALE]]></description>
+				<content:encoded><![CDATA[<p>60 R MARSALE</p>
+]]></content:encoded>
+			<wfw:commentRss>http://https://malorchrd.github.io/wp-static/60-r-marsale/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>500 grande rue</title>
+		<link>http://https://malorchrd.github.io/wp-static/500-grande-rue/</link>
+		<comments>http://https://malorchrd.github.io/wp-static/500-grande-rue/#respond</comments>
+		<pubDate>Mon, 18 Feb 2019 06:01:54 +0000</pubDate>
+		<dc:creator><![CDATA[malo_richard]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://https://malorchrd.github.io/wp-static/500-grande-rue/</guid>
+		<description><![CDATA[500 grande rue]]></description>
+				<content:encoded><![CDATA[<p>500 grande rue</p>
+]]></content:encoded>
+			<wfw:commentRss>http://https://malorchrd.github.io/wp-static/500-grande-rue/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
 </rss>
